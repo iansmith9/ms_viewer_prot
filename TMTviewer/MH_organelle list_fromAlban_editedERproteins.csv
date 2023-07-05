@@ -1,0 +1,2357 @@
+Gene Symbol,Compartment
+ACTG1,Actin binding proteins
+ACTN1,Actin binding proteins
+ACTN4,Actin binding proteins
+CALD1,Actin binding proteins
+CORO1B,Actin binding proteins
+CORO1C,Actin binding proteins
+CORO2A,Actin binding proteins
+CTTN,Actin binding proteins
+DBN1,Actin binding proteins
+DBNL,Actin binding proteins
+FLNA,Actin binding proteins
+FLNB,Actin binding proteins
+LIMCH1,Actin binding proteins
+LRRFIP2,Actin binding proteins
+MPDZ,Actin binding proteins
+MPRIP,Actin binding proteins
+MYH10,Actin binding proteins
+MYH9,Actin binding proteins
+MYL12B,Actin binding proteins
+MYL6,Actin binding proteins
+MYL6B,Actin binding proteins
+MYO18A,Actin binding proteins
+PALLD,Actin binding proteins
+PDLIM1,Actin binding proteins
+PDLIM7,Actin binding proteins
+PLS1,Actin binding proteins
+PLS3,Actin binding proteins
+PPP1R12A,Actin binding proteins
+PPP1R18,Actin binding proteins
+PPP1R9B,Actin binding proteins
+RAI14,Actin binding proteins
+SH3BGRL3,Actin binding proteins
+SIPA1,Actin binding proteins
+SORBS2,Actin binding proteins
+SPTAN1,Actin binding proteins
+SPTBN1,Actin binding proteins
+SPTBN2,Actin binding proteins
+SVIL,Actin binding proteins
+TJP1,Actin binding proteins
+TJP2,Actin binding proteins
+TLN1,Actin binding proteins
+TNS1,Actin binding proteins
+UTRN,Actin binding proteins
+ZYX,Actin binding proteins
+BLOC1S1,Endosome
+FTH1,Endosome
+NBR1,Endosome
+RAB11FIP5,Endosome
+SND1,Endosome
+RAB11B,Endosome
+ABCA2,Endosome
+ABHD17B,Endosome
+AGTRAP,Endosome
+ALDH16A1,Endosome
+ANKFY1,Endosome
+ANKRD27,Endosome
+AP1AR,Endosome
+AP3B1,Endosome
+AP3D1,Endosome
+AP3M1,Endosome
+AP3S1,Endosome
+APLP2,Endosome
+APP,Endosome
+ARL8A,Endosome
+ARL8B,Endosome
+ATG9A,Endosome
+ATP6AP1,Endosome
+ATP6V0A1,Endosome
+ATP6V0A2,Endosome
+ATP6V0D1,Endosome
+ATP6V1A,Endosome
+ATP6V1B2,Endosome
+ATP6V1C1,Endosome
+ATP6V1D,Endosome
+ATP6V1E1,Endosome
+ATP6V1G1,Endosome
+ATP6V1H,Endosome
+ATP9A,Endosome
+BECN1,Endosome
+BLOC1S2,Endosome
+BLOC1S3,Endosome
+BORCS5,Endosome
+BORCS6,Endosome
+BORCS7,Endosome
+CHMP1A,Endosome
+CLCN3,Endosome
+DAGLB,Endosome
+DENND6A,Endosome
+DERA,Endosome
+DNAJC13,Endosome
+ECE1,Endosome
+EEA1,Endosome
+EHD1,Endosome
+EHD4,Endosome
+FKBP15,Endosome
+FRYL,Endosome
+GABARAPL2,Endosome
+GATD1,Endosome
+GDAP2,Endosome
+HGS,Endosome
+HPS3,Endosome
+IGF2R,Endosome
+IST1,Endosome
+ITFG1,Endosome
+KMT2C,Endosome
+KXD1,Endosome
+LDLR,Endosome
+LGR4,Endosome
+LMBRD1,Endosome
+LMBRD2,Endosome
+LNPEP,Endosome
+LRP1,Endosome
+LRP8,Endosome
+M6PR,Endosome
+MAP1LC3B,Endosome
+MFSD4B,Endosome
+MITD1,Endosome
+MON1B,Endosome
+MRC2,Endosome
+MYOF,Endosome
+OCRL,Endosome
+PI4K2A,Endosome
+PIK3R4,Endosome
+PLD1,Endosome
+PPP1R21,Endosome
+PSEN2,Endosome
+PTPN9,Endosome
+RAB11FIP1,Endosome
+RAB14,Endosome
+RAB17,Endosome
+RAB4A,Endosome
+RAB9A,Endosome
+RMC1,Endosome
+SCAMP1,Endosome
+SCAMP2,Endosome
+SCAMP3,Endosome
+SCYL2,Endosome
+SEMA4C,Endosome
+SEZ6L2,Endosome
+SLC12A6,Endosome
+SLC12A9,Endosome
+SLC35F2,Endosome
+SLC9A6,Endosome
+SNAPIN,Endosome
+SNX1,Endosome
+SNX12,Endosome
+SNX2,Endosome
+SNX27,Endosome
+SNX3,Endosome
+SNX30,Endosome
+SNX4,Endosome
+SNX5,Endosome
+SNX6,Endosome
+SNX8,Endosome
+SORCS2,Endosome
+SORT1,Endosome
+SPPL2A,Endosome
+STAM,Endosome
+STAM2,Endosome
+STUB1,Endosome
+STX10,Endosome
+STX12,Endosome
+STX16,Endosome
+STX6,Endosome
+STX7,Endosome
+STX8,Endosome
+TAX1BP1,Endosome
+TBC1D5,Endosome
+TFRC,Endosome
+TGFBRAP1,Endosome
+TMEM63A,Endosome
+TMEM63B,Endosome
+TOLLIP,Endosome
+TPBG,Endosome
+TRIM56,Endosome
+TRMT6,Endosome
+UVRAG,Endosome
+VAC14,Endosome
+VAMP7,Endosome
+VAMP8,Endosome
+VLDLR,Endosome
+VPS11,Endosome
+VPS16,Endosome
+VPS18,Endosome
+VPS26A,Endosome
+VPS26B,Endosome
+VPS29,Endosome
+VPS33A,Endosome
+VPS35,Endosome
+VPS39,Endosome
+VPS41,Endosome
+VPS45,Endosome
+VPS8,Endosome
+VTI1A,Endosome
+VTI1B,Endosome
+WASHC2A,Endosome
+WASHC3,Endosome
+WASHC4,Endosome
+WASHC5,Endosome
+WDFY1,Endosome
+ZC3HAV1,Endosome
+BET1,Ergic/cisGolgi
+ERGIC1,Ergic/cisGolgi
+ERGIC2,Ergic/cisGolgi
+ERGIC3,Ergic/cisGolgi
+ERP44,Ergic/cisGolgi
+GLE1,Ergic/cisGolgi
+GOLT1B,Ergic/cisGolgi
+GOSR2,Ergic/cisGolgi
+IER3IP1,Ergic/cisGolgi
+KDELR1,Ergic/cisGolgi
+LMAN1,Ergic/cisGolgi
+LMAN2,Ergic/cisGolgi
+LMAN2L,Ergic/cisGolgi
+MCFD2,Ergic/cisGolgi
+RAB1A,Ergic/cisGolgi
+RAB1B,Ergic/cisGolgi
+RAB2A,Ergic/cisGolgi
+RAB2B,Ergic/cisGolgi
+RER1,Ergic/cisGolgi
+SPRYD7,Ergic/cisGolgi
+STX5,Ergic/cisGolgi
+lnp,Ergic/cisGolgi
+TMED1,Ergic/cisGolgi
+TMED10,Ergic/cisGolgi
+TMED2,Ergic/cisGolgi
+TMED3,Ergic/cisGolgi
+TMED4,Ergic/cisGolgi
+TMED5,Ergic/cisGolgi
+TMED7,Ergic/cisGolgi
+TMED9,Ergic/cisGolgi
+TMEM181,Ergic/cisGolgi
+YIPF5,Ergic/cisGolgi
+ARL6IP1,ER_high_curvature
+ATL1,ER_high_curvature
+ATL2,ER_high_curvature
+ATL3,ER_high_curvature
+DNAJC5,ER_high_curvature
+ENDOD1,ER_high_curvature
+OSBPL3,ER_high_curvature
+PTPN2,ER_high_curvature
+RAB18,ER_high_curvature
+REEP1,ER_high_curvature
+REEP2,ER_high_curvature
+REEP3,ER_high_curvature
+REEP5,ER_high_curvature
+REEP4,ER_high_curvature
+REEP6,ER_high_curvature
+FAM134B,ER_high_curvature
+RTN1,ER_high_curvature
+RTN2,ER_high_curvature
+RTN3,ER_high_curvature
+RTN4,ER_high_curvature
+SEC22B,ER_high_curvature
+LNP,ER_high_curvature
+ZFYVE27,ER_high_curvature
+CKAP4,ER_sheet
+KTN1,ER_sheet
+RRBP1,ER_sheet
+CCPG1,Receptor
+FAM134A,Receptor
+FAM134C,Receptor
+TEX264,ER-Membrane
+SEC62,ER-Membrane
+FKBP10,ER-Lumen
+P4HB,ER-Lumen
+RCN2,ER-Lumen
+TXNDC12,ER-Lumen
+ALG6,ER-Lumen
+ALG8,ER-Lumen
+BTD,ER-Lumen
+CALR,ER-Lumen
+CALU,ER-Lumen
+CCDC134,ER-Lumen
+CNPY2,ER-Lumen
+COL4A2,ER-Lumen
+COLGALT1,ER-Lumen
+CRTAP,ER-Lumen
+DNAJB11,ER-Lumen
+DNAJC10,ER-Lumen
+DNAJC3,ER-Lumen
+EDEM3,ER-Lumen
+EOGT,ER-Lumen
+ERAP1,ER-Lumen
+ERLEC1,ER-Lumen
+ERO1A,ER-Lumen
+ERP29,ER-Lumen
+FKBP14,ER-Lumen
+FKBP2,ER-Lumen
+FKBP9,ER-Lumen
+FNDC3A,ER-Lumen
+FNDC3B,ER-Lumen
+GANAB,ER-Lumen
+HSP90B1,ER-Lumen
+HSPA5,ER-Lumen
+HYOU1,ER-Lumen
+IKBIP,ER-Lumen
+KDELC1,ER-Lumen
+KDELC2,ER-Lumen
+KTN1,ER-Lumen
+LGALS3BP,ER-Lumen
+MANF,ER-Lumen
+MESD,ER-Lumen
+MINPP1,ER-Lumen
+MTDH,ER-Lumen
+MYDGF,ER-Lumen
+NENF,ER-Lumen
+NFXL1,ER-Lumen
+NPTX1,ER-Lumen
+P3H1,ER-Lumen
+P3H4,ER-Lumen
+P4HA1,ER-Lumen
+P4HA2,ER-Lumen
+PDIA3,ER-Lumen
+PDIA4,ER-Lumen
+PDIA5,ER-Lumen
+PDIA6,ER-Lumen
+PLOD1,ER-Lumen
+PLOD2,ER-Lumen
+PLOD3,ER-Lumen
+POFUT1,ER-Lumen
+POGLUT1,ER-Lumen
+PPIB,ER-Lumen
+PRKCSH,ER-Lumen
+PXDN,ER-Lumen
+RCN1,ER-Lumen
+RCN3,ER-Lumen
+SDF2,ER-Lumen
+SDF2L1,ER-Lumen
+SELENOF,ER-Lumen
+SERPINH1,ER-Lumen
+SIL1,ER-Lumen
+SSR1,ER-Lumen
+SUMF2,ER-Lumen
+TBL2,ER-Lumen
+TMEM38B,ER-Lumen
+TMTC3,ER-Lumen
+TOR1B,ER-Lumen
+TOR3A,ER-Lumen
+TTC13,ER-Lumen
+TTC17,ER-Lumen
+TXNDC5,ER-Lumen
+UFL1,ER-Lumen
+UGGT1,ER-Lumen
+ALDH3A2,ER-Membrane
+CISD2,ER-Membrane
+COMT,ER-Membrane
+DHCR24,ER-Membrane
+DHRS7B,ER-Membrane
+DHRSX,ER-Membrane
+EMC2,ER-Membrane
+KIAA0100,ER-Membrane
+LAMC1,ER-Membrane
+NCEH1,ER-Membrane
+PRDX4,ER-Membrane
+RDH11,ER-Membrane
+SPTLC2,ER-Membrane
+TMEM205,ER-Membrane
+APOL2,ER-Membrane
+CANX,ER-Membrane
+TMX1,ER-Membrane
+ABHD12,ER-Membrane
+ABHD6,ER-Membrane
+ACSL3,ER-Membrane
+ADAM10,ER-Membrane
+ADPGK,ER-Membrane
+AGPAT1,ER-Membrane
+AGPAT2,ER-Membrane
+AGPAT3,ER-Membrane
+ALG1,ER-Membrane
+ALG2,ER-Membrane
+ALG5,ER-Membrane
+ALG9,ER-Membrane
+AMFR,ER-Membrane
+ANKLE2,ER-Membrane
+ANO10,ER-Membrane
+APMAP,ER-Membrane
+ARL6IP5,ER-Membrane
+ASPH,ER-Membrane
+ATF6,ER-Membrane
+ATP13A1,ER-Membrane
+ATP2A2,ER-Membrane
+ATP6AP2,ER-Membrane
+AUP1,ER-Membrane
+B3GLCT,ER-Membrane
+BCAP29,ER-Membrane
+BCAP31,ER-Membrane
+BNIP1,ER-Membrane
+BRI3BP,ER-Membrane
+C16orf58,ER-Membrane
+CCDC47,ER-Membrane
+CDIPT,ER-Membrane
+CDK5RAP3,ER-Membrane
+CDKAL1,ER-Membrane
+CEPT1,ER-Membrane
+CERS2,ER-Membrane
+CERS5,ER-Membrane
+CHP1,ER-Membrane
+CLCC1,ER-Membrane
+CLPTM1,ER-Membrane
+CLPTM1L,ER-Membrane
+CNPY4,ER-Membrane
+CRELD1,ER-Membrane
+CRELD2,ER-Membrane
+CYP20A1,ER-Membrane
+CYP2S1,ER-Membrane
+CYP51A1,ER-Membrane
+DAD1,ER-Membrane
+DDOST,ER-Membrane
+DDRGK1,ER-Membrane
+DEGS1,ER-Membrane
+DERL1,ER-Membrane
+DHCR7,ER-Membrane
+DHRS13,ER-Membrane
+DHRS7,ER-Membrane
+DNAJB12,ER-Membrane
+DNAJB14,ER-Membrane
+DNAJC1,ER-Membrane
+DPM1,ER-Membrane
+EBP,ER-Membrane
+EIF2AK3,ER-Membrane
+ELOVL1,ER-Membrane
+ELOVL5,ER-Membrane
+EMC1,ER-Membrane
+EMC7,ER-Membrane
+EMD,ER-Membrane
+EPHX1,ER-Membrane
+ERLIN1,ER-Membrane
+ERLIN2,ER-Membrane
+ERMP1,ER-Membrane
+FADS1,ER-Membrane
+FADS3,ER-Membrane
+FBLN1,ER-Membrane
+FDFT1,ER-Membrane
+G6PC3,ER-Membrane
+GGCX,ER-Membrane
+GHDC,ER-Membrane
+GPAA1,ER-Membrane
+GPAT4,ER-Membrane
+GPX8,ER-Membrane
+GRAMD2B,ER-Membrane
+HACD2,ER-Membrane
+HACD3,ER-Membrane
+HM13,ER-Membrane
+HMOX1,ER-Membrane
+HMOX2,ER-Membrane
+HSD17B11,ER-Membrane
+HSD17B12,ER-Membrane
+HSPA13,ER-Membrane
+ILVBL,ER-Membrane
+ITGB1,ER-Membrane
+ITPR1,ER-Membrane
+ITPR2,ER-Membrane
+ITPR3,ER-Membrane
+JAGN1,ER-Membrane
+KDSR,ER-Membrane
+LAMB1,ER-Membrane
+LBR,ER-Membrane
+LCLAT1,ER-Membrane
+LEMD2,ER-Membrane
+LMF2,ER-Membrane
+LOXL2,ER-Membrane
+LPCAT1,ER-Membrane
+LPCAT2,ER-Membrane
+LPCAT3,ER-Membrane
+LPGAT1,ER-Membrane
+LRPAP1,ER-Membrane
+LRRC59,ER-Membrane
+LSG1,ER-Membrane
+LSS,ER-Membrane
+MAGT1,ER-Membrane
+MBOAT7,ER-Membrane
+METTL7A,ER-Membrane
+MGST2,ER-Membrane
+MIA3,ER-Membrane
+MLEC,ER-Membrane
+MOGS,ER-Membrane
+MOSPD2,ER-Membrane
+MSMO1,ER-Membrane
+MXRA7,ER-Membrane
+NBAS,ER-Membrane
+NCLN,ER-Membrane
+NSDHL,ER-Membrane
+ODR4,ER-Membrane
+OS9,ER-Membrane
+OSBPL8,ER-Membrane
+OSTC,ER-Membrane
+PCYOX1,ER-Membrane
+PGRMC1,ER-Membrane
+PGRMC2,ER-Membrane
+PIGK,ER-Membrane
+PIGO,ER-Membrane
+PIGS,ER-Membrane
+PIGT,ER-Membrane
+PIGU,ER-Membrane
+PKMYT1,ER-Membrane
+PNPLA6,ER-Membrane
+PON2,ER-Membrane
+POR,ER-Membrane
+PREB,ER-Membrane
+PTDSS1,ER-Membrane
+PTDSS2,ER-Membrane
+PTPN1,ER-Membrane
+RCE1,ER-Membrane
+RETSAT,ER-Membrane
+RFT1,ER-Membrane
+RINT1,ER-Membrane
+RPN1,ER-Membrane
+RPN2,ER-Membrane
+RRBP1,ER-Membrane
+SACM1L,ER-Membrane
+SCARB1,ER-Membrane
+SCD,ER-Membrane
+SCFD2,ER-Membrane
+SEC11A,ER-Membrane
+SEC61A1,ER-Membrane
+SEC61B,ER-Membrane
+SEC61G,ER-Membrane
+SEC63,ER-Membrane
+SEL1L,ER-Membrane
+SERPINI1,ER-Membrane
+SGPL1,ER-Membrane
+SIGMAR1,ER-Membrane
+SLC22A18,ER-Membrane
+SLC27A2,ER-Membrane
+SLC27A4,ER-Membrane
+SLC33A1,ER-Membrane
+SLMAP,ER-Membrane
+SOAT1,ER-Membrane
+SPCS1,ER-Membrane
+SPCS2,ER-Membrane
+SPCS3,ER-Membrane
+SPTLC1,ER-Membrane
+SQLE,ER-Membrane
+SRP54,ER-Membrane
+SRP68,ER-Membrane
+SRP72,ER-Membrane
+SRPRA,ER-Membrane
+SRPRB,ER-Membrane
+SSR3,ER-Membrane
+SSR4,ER-Membrane
+ST7,ER-Membrane
+STIM1,ER-Membrane
+STT3A,ER-Membrane
+STT3B,ER-Membrane
+STX18,ER-Membrane
+SYVN1,ER-Membrane
+TAP2,ER-Membrane
+TECR,ER-Membrane
+TGFB1,ER-Membrane
+TGFBR1,ER-Membrane
+THEM6,ER-Membrane
+TMBIM6,ER-Membrane
+TMCO1,ER-Membrane
+TMEM109,ER-Membrane
+TMEM131,ER-Membrane
+TMEM164,ER-Membrane
+TMEM199,ER-Membrane
+TMEM214,ER-Membrane
+TMEM245,ER-Membrane
+TMEM259,ER-Membrane
+TMEM33,ER-Membrane
+TMEM43,ER-Membrane
+TMEM97,ER-Membrane
+TMX2,ER-Membrane
+TMX3,ER-Membrane
+TOR1A,ER-Membrane
+TOR1AIP2,ER-Membrane
+TOR2A,ER-Membrane
+TRAM1,ER-Membrane
+TXNDC15,ER-Membrane
+TYW1,ER-Membrane
+UBAC2,ER-Membrane
+UBE2G2,ER-Membrane
+UBE2J1,ER-Membrane
+UBXN4,ER-Membrane
+UFSP2,ER-Membrane
+UGT8,ER-Membrane
+USE1,ER-Membrane
+VAPA,ER-Membrane
+VAPB,ER-Membrane
+VKORC1L1,ER-Membrane
+VMP1,ER-Membrane
+VRK2,ER-Membrane
+WFS1,ER-Membrane
+XXYLT1,ER-Membrane
+ACSL4,Golgi
+AIFM2,Golgi
+DUT,Golgi
+GARS,Golgi
+NIF3L1,Golgi
+PREPL,Golgi
+TRMT1,Golgi
+MBLAC2,Golgi
+ARF1,Golgi
+ARFRP1,Golgi
+ARL1,Golgi
+ATP2C1,Golgi
+B3GAT3,Golgi
+B4GALT1,Golgi
+B4GALT4,Golgi
+BSDC1,Golgi
+CANT1,Golgi
+CASC4,Golgi
+COG2,Golgi
+COG4,Golgi
+COG5,Golgi
+EXTL2,Golgi
+FAM20B,Golgi
+GALNT1,Golgi
+GALNT2,Golgi
+GALNT7,Golgi
+GCC2,Golgi
+GLG1,Golgi
+GLT8D1,Golgi
+GOLGA2,Golgi
+GOLGA3,Golgi
+GOLGA4,Golgi
+GOLGA5,Golgi
+GOLGB1,Golgi
+GOLIM4,Golgi
+GOLM1,Golgi
+GORASP2,Golgi
+GOSR1,Golgi
+HS2ST1,Golgi
+IMPAD1,Golgi
+KIAA2013,Golgi
+MAN1B1,Golgi
+MAN2A1,Golgi
+MGAT1,Golgi
+MGAT2,Golgi
+PRKACA,Golgi
+PRKACB,Golgi
+QSOX2,Golgi
+SDF4,Golgi
+SGMS1,Golgi
+SLC30A5,Golgi
+SLC35B2,Golgi
+SLC35E1,Golgi
+TM9SF1,Golgi
+TM9SF2,Golgi
+TM9SF3,Golgi
+TM9SF4,Golgi
+TMEM165,Golgi
+TRIP11,Golgi
+UBIAD1,Golgi
+UXS1,Golgi
+ABCB6,Lysosome
+TCIRG1,Lysosome
+ACP2,Lysosome
+AGA,Lysosome
+ARSB,Lysosome
+ASAH1,Lysosome
+CD63,Lysosome
+CLCN7,Lysosome
+CREG1,Lysosome
+CTSA,Lysosome
+CTSB,Lysosome
+CTSC,Lysosome
+CTSL,Lysosome
+CTSZ,Lysosome
+DNASE2,Lysosome
+DPP7,Lysosome
+GAA,Lysosome
+GBA,Lysosome
+GGH,Lysosome
+GLA,Lysosome
+GLB1,Lysosome
+GNS,Lysosome
+HEXA,Lysosome
+HEXB,Lysosome
+IFITM3,Lysosome
+LAMP1,Lysosome
+LAMP2,Lysosome
+LAMTOR1,Lysosome
+LAMTOR2,Lysosome
+LAMTOR3,Lysosome
+LAMTOR5,Lysosome
+LIPA,Lysosome
+MAN2B1,Lysosome
+NAGA,Lysosome
+NAGLU,Lysosome
+NEU1,Lysosome
+NPC1,Lysosome
+NPC2,Lysosome
+OSTM1,Lysosome
+PLBD2,Lysosome
+PLD3,Lysosome
+PPT1,Lysosome
+PRCP,Lysosome
+PSAP,Lysosome
+RNASET2,Lysosome
+RNF13,Lysosome
+RNF167,Lysosome
+SCARB2,Lysosome
+SCPEP1,Lysosome
+SIAE,Lysosome
+SLC17A5,Lysosome
+SLC38A7,Lysosome
+SLC38A9,Lysosome
+SPNS1,Lysosome
+TM7SF3,Lysosome
+TMEM192,Lysosome
+TPP1,Lysosome
+AIFM1,Mitochondrion-IM
+ATAD3A,Mitochondrion-IM
+CHCHD3,Mitochondrion-IM
+COA3,Mitochondrion-IM
+COX4I1,Mitochondrion-IM
+COX6C,Mitochondrion-IM
+CYC1,Mitochondrion-IM
+DNAJC11,Mitochondrion-IM
+GPD2,Mitochondrion-IM
+NDUFB11,Mitochondrion-IM
+SAMM50,Mitochondrion-IM
+ACAD9,Mitochondrion-IM
+ATP5F1A,Mitochondrion-IM
+ATP5F1B,Mitochondrion-IM
+ATP5F1C,Mitochondrion-IM
+ATP5ME,Mitochondrion-IM
+ATP5MG,Mitochondrion-IM
+ATP5PB,Mitochondrion-IM
+ATP5PD,Mitochondrion-IM
+ATP5PO,Mitochondrion-IM
+COX15,Mitochondrion-IM
+COX5A,Mitochondrion-IM
+COX6B1,Mitochondrion-IM
+COX7A2,Mitochondrion-IM
+COX7C,Mitochondrion-IM
+DHODH,Mitochondrion-IM
+DNAJC15,Mitochondrion-IM
+FAM162A,Mitochondrion-IM
+HCCS,Mitochondrion-IM
+IMMT,Mitochondrion-IM
+LETM1,Mitochondrion-IM
+MT-CO2,Mitochondrion-IM
+MT-ND4,Mitochondrion-IM
+NDUFA11,Mitochondrion-IM
+NDUFA4,Mitochondrion-IM
+NDUFAF3,Mitochondrion-IM
+NDUFB3,Mitochondrion-IM
+NDUFB5,Mitochondrion-IM
+NDUFS1,Mitochondrion-IM
+NDUFS4,Mitochondrion-IM
+NDUFV2,Mitochondrion-IM
+OXA1L,Mitochondrion-IM
+PGAM5,Mitochondrion-IM
+PHB,Mitochondrion-IM
+PHB2,Mitochondrion-IM
+SDHA,Mitochondrion-IM
+SDHB,Mitochondrion-IM
+SFXN1,Mitochondrion-IM
+SLC25A1,Mitochondrion-IM
+SLC25A10,Mitochondrion-IM
+SLC25A11,Mitochondrion-IM
+SLC25A13,Mitochondrion-IM
+SLC25A22,Mitochondrion-IM
+SLC25A24,Mitochondrion-IM
+SLC25A3,Mitochondrion-IM
+SLC25A5,Mitochondrion-IM
+SLC25A6,Mitochondrion-IM
+STOML2,Mitochondrion-IM
+TIMM21,Mitochondrion-IM
+TIMM23,Mitochondrion-IM
+TIMM44,Mitochondrion-IM
+TIMM50,Mitochondrion-IM
+TMEM126A,Mitochondrion-IM
+TMEM70,Mitochondrion-IM
+UQCC2,Mitochondrion-IM
+UQCR10,Mitochondrion-IM
+UQCRB,Mitochondrion-IM
+UQCRC1,Mitochondrion-IM
+UQCRC2,Mitochondrion-IM
+UQCRQ,Mitochondrion-IM
+YME1L1,Mitochondrion-IM
+DMAC1,Mitochondrion-IM
+AGK,Mitochondrion-Mtx
+AK2,Mitochondrion-Mtx
+APOO,Mitochondrion-Mtx
+CMC1,Mitochondrion-Mtx
+CPOX,Mitochondrion-Mtx
+CYCS,Mitochondrion-Mtx
+GK,Mitochondrion-Mtx
+HK2,Mitochondrion-Mtx
+MTX1,Mitochondrion-Mtx
+NDUFA8,Mitochondrion-Mtx
+NDUFB10,Mitochondrion-Mtx
+NDUFB6,Mitochondrion-Mtx
+NDUFB7,Mitochondrion-Mtx
+OCIAD1,Mitochondrion-Mtx
+SCO1,Mitochondrion-Mtx
+SCO2,Mitochondrion-Mtx
+AARS2,Mitochondrion-Mtx
+ABCB7,Mitochondrion-Mtx
+ABHD10,Mitochondrion-Mtx
+ACAA2,Mitochondrion-Mtx
+ACADM,Mitochondrion-Mtx
+ACADSB,Mitochondrion-Mtx
+ACADVL,Mitochondrion-Mtx
+ACAT1,Mitochondrion-Mtx
+ACO2,Mitochondrion-Mtx
+ACOT13,Mitochondrion-Mtx
+ACOT9,Mitochondrion-Mtx
+ACSF3,Mitochondrion-Mtx
+AFG3L2,Mitochondrion-Mtx
+AK4,Mitochondrion-Mtx
+ALDH1B1,Mitochondrion-Mtx
+ALDH4A1,Mitochondrion-Mtx
+ALDH5A1,Mitochondrion-Mtx
+ALDH7A1,Mitochondrion-Mtx
+ALDH9A1,Mitochondrion-Mtx
+ATP5IF1,Mitochondrion-Mtx
+ATP5PF,Mitochondrion-Mtx
+ATPAF1,Mitochondrion-Mtx
+BAX,Mitochondrion-Mtx
+BCAT2,Mitochondrion-Mtx
+BCKDHA,Mitochondrion-Mtx
+BCKDHB,Mitochondrion-Mtx
+BCKDK,Mitochondrion-Mtx
+C1QBP,Mitochondrion-Mtx
+CARS2,Mitochondrion-Mtx
+CBR4,Mitochondrion-Mtx
+CCDC58,Mitochondrion-Mtx
+CHCHD4,Mitochondrion-Mtx
+CLPB,Mitochondrion-Mtx
+CLPP,Mitochondrion-Mtx
+CLPX,Mitochondrion-Mtx
+COA6,Mitochondrion-Mtx
+COA7,Mitochondrion-Mtx
+COX7A2L,Mitochondrion-Mtx
+CPS1,Mitochondrion-Mtx
+CRAT,Mitochondrion-Mtx
+CRYZ,Mitochondrion-Mtx
+CS,Mitochondrion-Mtx
+DAP3,Mitochondrion-Mtx
+DARS2,Mitochondrion-Mtx
+DBT,Mitochondrion-Mtx
+DDX28,Mitochondrion-Mtx
+DECR1,Mitochondrion-Mtx
+DHX30,Mitochondrion-Mtx
+DIABLO,Mitochondrion-Mtx
+DLAT,Mitochondrion-Mtx
+DLD,Mitochondrion-Mtx
+DLST,Mitochondrion-Mtx
+DNAJA3,Mitochondrion-Mtx
+DTYMK,Mitochondrion-Mtx
+EARS2,Mitochondrion-Mtx
+ECHS1,Mitochondrion-Mtx
+ECI1,Mitochondrion-Mtx
+ELAC2,Mitochondrion-Mtx
+ERAL1,Mitochondrion-Mtx
+ETFA,Mitochondrion-Mtx
+ETFB,Mitochondrion-Mtx
+ETHE1,Mitochondrion-Mtx
+FAHD1,Mitochondrion-Mtx
+FAHD2A,Mitochondrion-Mtx
+FARS2,Mitochondrion-Mtx
+FASTKD2,Mitochondrion-Mtx
+FASTKD3,Mitochondrion-Mtx
+FASTKD5,Mitochondrion-Mtx
+FDX1,Mitochondrion-Mtx
+FDXR,Mitochondrion-Mtx
+FECH,Mitochondrion-Mtx
+FH,Mitochondrion-Mtx
+GADD45GIP1,Mitochondrion-Mtx
+GCDH,Mitochondrion-Mtx
+GCSH,Mitochondrion-Mtx
+GFM1,Mitochondrion-Mtx
+GHITM,Mitochondrion-Mtx
+GLS,Mitochondrion-Mtx
+GLUD1,Mitochondrion-Mtx
+GOT2,Mitochondrion-Mtx
+GPT2,Mitochondrion-Mtx
+GRHPR,Mitochondrion-Mtx
+GRPEL1,Mitochondrion-Mtx
+GRPEL2,Mitochondrion-Mtx
+GRSF1,Mitochondrion-Mtx
+GSR,Mitochondrion-Mtx
+GTPBP10,Mitochondrion-Mtx
+GTPBP6,Mitochondrion-Mtx
+HADH,Mitochondrion-Mtx
+HADHA,Mitochondrion-Mtx
+HADHB,Mitochondrion-Mtx
+HAGH,Mitochondrion-Mtx
+HARS2,Mitochondrion-Mtx
+HINT2,Mitochondrion-Mtx
+HSCB,Mitochondrion-Mtx
+HSD17B10,Mitochondrion-Mtx
+HSD17B8,Mitochondrion-Mtx
+HSPA9,Mitochondrion-Mtx
+HSPD1,Mitochondrion-Mtx
+HSPE1,Mitochondrion-Mtx
+HTRA2,Mitochondrion-Mtx
+IARS2,Mitochondrion-Mtx
+IDH2,Mitochondrion-Mtx
+IDH3A,Mitochondrion-Mtx
+IDH3B,Mitochondrion-Mtx
+IDH3G,Mitochondrion-Mtx
+ISCU,Mitochondrion-Mtx
+IVD,Mitochondrion-Mtx
+KIAA0391,Mitochondrion-Mtx
+KYAT3,Mitochondrion-Mtx
+LACTB,Mitochondrion-Mtx
+LAP3,Mitochondrion-Mtx
+LARS2,Mitochondrion-Mtx
+LETMD1,Mitochondrion-Mtx
+LONP1,Mitochondrion-Mtx
+LRPPRC,Mitochondrion-Mtx
+LYPLA1,Mitochondrion-Mtx
+LYRM7,Mitochondrion-Mtx
+MALSU1,Mitochondrion-Mtx
+MARS2,Mitochondrion-Mtx
+MCAT,Mitochondrion-Mtx
+MCUR1,Mitochondrion-Mtx
+MDH2,Mitochondrion-Mtx
+ME2,Mitochondrion-Mtx
+MGME1,Mitochondrion-Mtx
+MICU1,Mitochondrion-Mtx
+MICU2,Mitochondrion-Mtx
+MIPEP,Mitochondrion-Mtx
+MMAB,Mitochondrion-Mtx
+MMUT,Mitochondrion-Mtx
+MRM3,Mitochondrion-Mtx
+MRPL1,Mitochondrion-Mtx
+MRPL10,Mitochondrion-Mtx
+MRPL11,Mitochondrion-Mtx
+MRPL12,Mitochondrion-Mtx
+MRPL13,Mitochondrion-Mtx
+MRPL14,Mitochondrion-Mtx
+MRPL15,Mitochondrion-Mtx
+MRPL16,Mitochondrion-Mtx
+MRPL17,Mitochondrion-Mtx
+MRPL18,Mitochondrion-Mtx
+MRPL19,Mitochondrion-Mtx
+MRPL2,Mitochondrion-Mtx
+MRPL20,Mitochondrion-Mtx
+MRPL21,Mitochondrion-Mtx
+MRPL22,Mitochondrion-Mtx
+MRPL23,Mitochondrion-Mtx
+MRPL24,Mitochondrion-Mtx
+MRPL27,Mitochondrion-Mtx
+MRPL28,Mitochondrion-Mtx
+MRPL3,Mitochondrion-Mtx
+MRPL30,Mitochondrion-Mtx
+MRPL32,Mitochondrion-Mtx
+MRPL37,Mitochondrion-Mtx
+MRPL38,Mitochondrion-Mtx
+MRPL39,Mitochondrion-Mtx
+MRPL4,Mitochondrion-Mtx
+MRPL41,Mitochondrion-Mtx
+MRPL43,Mitochondrion-Mtx
+MRPL44,Mitochondrion-Mtx
+MRPL46,Mitochondrion-Mtx
+MRPL47,Mitochondrion-Mtx
+MRPL48,Mitochondrion-Mtx
+MRPL49,Mitochondrion-Mtx
+MRPL50,Mitochondrion-Mtx
+MRPL53,Mitochondrion-Mtx
+MRPL55,Mitochondrion-Mtx
+MRPL58,Mitochondrion-Mtx
+MRPL9,Mitochondrion-Mtx
+MRPS10,Mitochondrion-Mtx
+MRPS11,Mitochondrion-Mtx
+MRPS12,Mitochondrion-Mtx
+MRPS14,Mitochondrion-Mtx
+MRPS15,Mitochondrion-Mtx
+MRPS16,Mitochondrion-Mtx
+MRPS17,Mitochondrion-Mtx
+MRPS18A,Mitochondrion-Mtx
+MRPS18B,Mitochondrion-Mtx
+MRPS2,Mitochondrion-Mtx
+MRPS21,Mitochondrion-Mtx
+MRPS22,Mitochondrion-Mtx
+MRPS23,Mitochondrion-Mtx
+MRPS24,Mitochondrion-Mtx
+MRPS25,Mitochondrion-Mtx
+MRPS26,Mitochondrion-Mtx
+MRPS27,Mitochondrion-Mtx
+MRPS28,Mitochondrion-Mtx
+MRPS30,Mitochondrion-Mtx
+MRPS31,Mitochondrion-Mtx
+MRPS34,Mitochondrion-Mtx
+MRPS35,Mitochondrion-Mtx
+MRPS36,Mitochondrion-Mtx
+MRPS5,Mitochondrion-Mtx
+MRPS6,Mitochondrion-Mtx
+MRPS7,Mitochondrion-Mtx
+MRPS9,Mitochondrion-Mtx
+MRRF,Mitochondrion-Mtx
+MTERF3,Mitochondrion-Mtx
+MTG1,Mitochondrion-Mtx
+MTG2,Mitochondrion-Mtx
+MTHFD1L,Mitochondrion-Mtx
+MTHFD2,Mitochondrion-Mtx
+MTO1,Mitochondrion-Mtx
+MTPAP,Mitochondrion-Mtx
+NADK2,Mitochondrion-Mtx
+NARS2,Mitochondrion-Mtx
+NAXE,Mitochondrion-Mtx
+NDUFA10,Mitochondrion-Mtx
+NDUFA12,Mitochondrion-Mtx
+NDUFA2,Mitochondrion-Mtx
+NDUFA5,Mitochondrion-Mtx
+NDUFA6,Mitochondrion-Mtx
+NDUFA7,Mitochondrion-Mtx
+NDUFA9,Mitochondrion-Mtx
+NDUFAF2,Mitochondrion-Mtx
+NDUFAF7,Mitochondrion-Mtx
+NDUFB9,Mitochondrion-Mtx
+NDUFS6,Mitochondrion-Mtx
+NDUFS7,Mitochondrion-Mtx
+NDUFS8,Mitochondrion-Mtx
+NDUFV3,Mitochondrion-Mtx
+NFS1,Mitochondrion-Mtx
+NIPSNAP1,Mitochondrion-Mtx
+NIPSNAP2,Mitochondrion-Mtx
+NLN,Mitochondrion-Mtx
+NSUN4,Mitochondrion-Mtx
+NT5DC2,Mitochondrion-Mtx
+OAT,Mitochondrion-Mtx
+OGDH,Mitochondrion-Mtx
+OXCT1,Mitochondrion-Mtx
+PC,Mitochondrion-Mtx
+PCK2,Mitochondrion-Mtx
+PDE12,Mitochondrion-Mtx
+PDHA1,Mitochondrion-Mtx
+PDHB,Mitochondrion-Mtx
+PDHX,Mitochondrion-Mtx
+PDP1,Mitochondrion-Mtx
+PDPR,Mitochondrion-Mtx
+PITRM1,Mitochondrion-Mtx
+PMPCA,Mitochondrion-Mtx
+PMPCB,Mitochondrion-Mtx
+PNPT1,Mitochondrion-Mtx
+POLDIP2,Mitochondrion-Mtx
+POLG,Mitochondrion-Mtx
+POLRMT,Mitochondrion-Mtx
+PPA2,Mitochondrion-Mtx
+PPIF,Mitochondrion-Mtx
+PRDX3,Mitochondrion-Mtx
+PRDX5,Mitochondrion-Mtx
+PTCD1,Mitochondrion-Mtx
+PTCD3,Mitochondrion-Mtx
+PUS1,Mitochondrion-Mtx
+PYCR1,Mitochondrion-Mtx
+PYCR2,Mitochondrion-Mtx
+RARS2,Mitochondrion-Mtx
+RCC1L,Mitochondrion-Mtx
+RDH13,Mitochondrion-Mtx
+SARS2,Mitochondrion-Mtx
+SDHAF2,Mitochondrion-Mtx
+SHMT2,Mitochondrion-Mtx
+SLC25A32,Mitochondrion-Mtx
+SLC25A4,Mitochondrion-Mtx
+SLIRP,Mitochondrion-Mtx
+SOD2,Mitochondrion-Mtx
+SPR,Mitochondrion-Mtx
+SPRYD4,Mitochondrion-Mtx
+SSBP1,Mitochondrion-Mtx
+SUCLA2,Mitochondrion-Mtx
+SUCLG1,Mitochondrion-Mtx
+SUCLG2,Mitochondrion-Mtx
+SUPV3L1,Mitochondrion-Mtx
+SURF1,Mitochondrion-Mtx
+TAMM41,Mitochondrion-Mtx
+TARS2,Mitochondrion-Mtx
+TBRG4,Mitochondrion-Mtx
+TEFM,Mitochondrion-Mtx
+TFAM,Mitochondrion-Mtx
+TFB1M,Mitochondrion-Mtx
+TFB2M,Mitochondrion-Mtx
+THNSL1,Mitochondrion-Mtx
+TIMM10,Mitochondrion-Mtx
+TIMM9,Mitochondrion-Mtx
+TOP3A,Mitochondrion-Mtx
+TRAP1,Mitochondrion-Mtx
+TRMT10C,Mitochondrion-Mtx
+TRMT61B,Mitochondrion-Mtx
+TRNT1,Mitochondrion-Mtx
+TRUB2,Mitochondrion-Mtx
+TSFM,Mitochondrion-Mtx
+TST,Mitochondrion-Mtx
+TUFM,Mitochondrion-Mtx
+TXN2,Mitochondrion-Mtx
+WARS2,Mitochondrion-Mtx
+XPNPEP3,Mitochondrion-Mtx
+YARS2,Mitochondrion-Mtx
+ARMC1,Mitochondrion-Mtx
+MYO19,Mitochondrion-Mtx
+VPS13A,Mitochondrion-Mtx
+HAX1,Mitochondrion-Mtx
+MRPL45,Mitochondrion-Mtx
+AKAP1,Mitochondrion-OM
+ATAD1,Mitochondrion-OM
+CISD1,Mitochondrion-OM
+CPT1A,Mitochondrion-OM
+1-Mar,Mitochondrion-OM
+2-Mar,Mitochondrion-OM
+MAVS,Mitochondrion-OM
+MFF,Mitochondrion-OM
+MFN1,Mitochondrion-OM
+MFN2,Mitochondrion-OM
+NME3,Mitochondrion-OM
+RHOT1,Mitochondrion-OM
+RHOT2,Mitochondrion-OM
+TMEM11,Mitochondrion-OM
+TOMM40,Mitochondrion-OM
+TOMM70,Mitochondrion-OM
+VDAC1,Mitochondrion-OM
+VDAC2,Mitochondrion-OM
+VDAC3,Mitochondrion-OM
+DCXR,Mitochondrion-OM
+DNAJC19,Mitochondrion-OM
+ECH1,Mitochondrion-OM
+MACROD1,Mitochondrion-OM
+MGST3,Mitochondrion-OM
+MTCH1,Mitochondrion-OM
+MTCH2,Mitochondrion-OM
+RIDA,Mitochondrion-OM
+TIMMDC1,Mitochondrion-OM
+TOMM22,Mitochondrion-OM
+TSPO,Mitochondrion-OM
+NT5C3A,Mitochondrion-OM
+TRABD,Mitochondrion-OM
+AATF,Nuclear (HA Frac)
+ABRAXAS1,Nuclear (HA Frac)
+ABT1,Nuclear (HA Frac)
+ACIN1,Nuclear (HA Frac)
+ADAR,Nuclear (HA Frac)
+ADNP,Nuclear (HA Frac)
+AHCTF1,Nuclear (HA Frac)
+AKAP8,Nuclear (HA Frac)
+ALYREF,Nuclear (HA Frac)
+ARHGAP11A,Nuclear (HA Frac)
+ARID1A,Nuclear (HA Frac)
+ARID2,Nuclear (HA Frac)
+ARID3A,Nuclear (HA Frac)
+ARID3B,Nuclear (HA Frac)
+ATAD2,Nuclear (HA Frac)
+ATAD2B,Nuclear (HA Frac)
+ATF2,Nuclear (HA Frac)
+AURKB,Nuclear (HA Frac)
+BANP,Nuclear (HA Frac)
+BARD1,Nuclear (HA Frac)
+BAZ1A,Nuclear (HA Frac)
+BAZ1B,Nuclear (HA Frac)
+BAZ2A,Nuclear (HA Frac)
+BCORL1,Nuclear (HA Frac)
+BIRC5,Nuclear (HA Frac)
+BMI1,Nuclear (HA Frac)
+BRD1,Nuclear (HA Frac)
+BRD7,Nuclear (HA Frac)
+BRIX1,Nuclear (HA Frac)
+BRPF1,Nuclear (HA Frac)
+BRWD3,Nuclear (HA Frac)
+C11orf95,Nuclear (HA Frac)
+CASP8AP2,Nuclear (HA Frac)
+CASZ1,Nuclear (HA Frac)
+CBX2,Nuclear (HA Frac)
+CBX8,Nuclear (HA Frac)
+CCDC137,Nuclear (HA Frac)
+CCDC59,Nuclear (HA Frac)
+CDCA7,Nuclear (HA Frac)
+CDCA7L,Nuclear (HA Frac)
+CDCA8,Nuclear (HA Frac)
+CDYL,Nuclear (HA Frac)
+CEBPG,Nuclear (HA Frac)
+CEBPZ,Nuclear (HA Frac)
+CECR2,Nuclear (HA Frac)
+CENPB,Nuclear (HA Frac)
+CENPC,Nuclear (HA Frac)
+CENPF,Nuclear (HA Frac)
+CENPO,Nuclear (HA Frac)
+CENPV,Nuclear (HA Frac)
+CHAF1A,Nuclear (HA Frac)
+CHAMP1,Nuclear (HA Frac)
+CHD1,Nuclear (HA Frac)
+CHTOP,Nuclear (HA Frac)
+CIZ1,Nuclear (HA Frac)
+COIL,Nuclear (HA Frac)
+CPSF2,Nuclear (HA Frac)
+CPSF4,Nuclear (HA Frac)
+CREB1,Nuclear (HA Frac)
+CTDSPL2,Nuclear (HA Frac)
+DCAF13,Nuclear (HA Frac)
+DDX10,Nuclear (HA Frac)
+DDX21,Nuclear (HA Frac)
+DDX27,Nuclear (HA Frac)
+DDX31,Nuclear (HA Frac)
+DDX39A,Nuclear (HA Frac)
+DDX47,Nuclear (HA Frac)
+DDX51,Nuclear (HA Frac)
+DDX54,Nuclear (HA Frac)
+DDX56,Nuclear (HA Frac)
+DHX9,Nuclear (HA Frac)
+DMAP1,Nuclear (HA Frac)
+DNMT3A,Nuclear (HA Frac)
+DNMT3B,Nuclear (HA Frac)
+DNTTIP2,Nuclear (HA Frac)
+EED,Nuclear (HA Frac)
+EHMT1,Nuclear (HA Frac)
+EHMT2,Nuclear (HA Frac)
+ELAVL1,Nuclear (HA Frac)
+EMG1,Nuclear (HA Frac)
+ESCO1,Nuclear (HA Frac)
+EZH2,Nuclear (HA Frac)
+FAM208A,Nuclear (HA Frac)
+FAM208B,Nuclear (HA Frac)
+FIP1L1,Nuclear (HA Frac)
+FTSJ3,Nuclear (HA Frac)
+FYTTD1,Nuclear (HA Frac)
+GLYR1,Nuclear (HA Frac)
+GTPBP4,Nuclear (HA Frac)
+H2AFY,Nuclear (HA Frac)
+H2AFY2,Nuclear (HA Frac)
+HASPIN,Nuclear (HA Frac)
+HIRA,Nuclear (HA Frac)
+HIST1H1D,Nuclear (HA Frac)
+HIST2H3A,Nuclear (HA Frac)
+HMGA2,Nuclear (HA Frac)
+HMGXB4,Nuclear (HA Frac)
+HNRNPA1,Nuclear (HA Frac)
+HNRNPA2B1,Nuclear (HA Frac)
+HNRNPC,Nuclear (HA Frac)
+HNRNPDL,Nuclear (HA Frac)
+HNRNPH1,Nuclear (HA Frac)
+HNRNPH3,Nuclear (HA Frac)
+HNRNPK,Nuclear (HA Frac)
+HNRNPL,Nuclear (HA Frac)
+HNRNPM,Nuclear (HA Frac)
+HNRNPR,Nuclear (HA Frac)
+HNRNPU,Nuclear (HA Frac)
+HNRNPUL2,Nuclear (HA Frac)
+HP1BP3,Nuclear (HA Frac)
+IMP3,Nuclear (HA Frac)
+IMP4,Nuclear (HA Frac)
+INCENP,Nuclear (HA Frac)
+JADE1,Nuclear (HA Frac)
+JARID2,Nuclear (HA Frac)
+KDM2A,Nuclear (HA Frac)
+KDM4D,Nuclear (HA Frac)
+KDM5B,Nuclear (HA Frac)
+KHDRBS1,Nuclear (HA Frac)
+KHDRBS3,Nuclear (HA Frac)
+KHSRP,Nuclear (HA Frac)
+KIF18B,Nuclear (HA Frac)
+KIF22,Nuclear (HA Frac)
+KMT2A,Nuclear (HA Frac)
+KMT2B,Nuclear (HA Frac)
+KNOP1,Nuclear (HA Frac)
+LAS1L,Nuclear (HA Frac)
+LLPH,Nuclear (HA Frac)
+LMNB1,Nuclear (HA Frac)
+LYAR,Nuclear (HA Frac)
+MAK16,Nuclear (HA Frac)
+MAU2,Nuclear (HA Frac)
+MBD1,Nuclear (HA Frac)
+MCM9,Nuclear (HA Frac)
+MDC1,Nuclear (HA Frac)
+MECP2,Nuclear (HA Frac)
+MEN1,Nuclear (HA Frac)
+MIS18BP1,Nuclear (HA Frac)
+MKI67,Nuclear (HA Frac)
+MPHOSPH10,Nuclear (HA Frac)
+MSANTD4,Nuclear (HA Frac)
+MSL1,Nuclear (HA Frac)
+MTA1,Nuclear (HA Frac)
+MTF2,Nuclear (HA Frac)
+MYBBP1A,Nuclear (HA Frac)
+NCBP3,Nuclear (HA Frac)
+NCOA5,Nuclear (HA Frac)
+NGDN,Nuclear (HA Frac)
+NHP2,Nuclear (HA Frac)
+NIFK,Nuclear (HA Frac)
+NIPBL,Nuclear (HA Frac)
+NKRF,Nuclear (HA Frac)
+NOC2L,Nuclear (HA Frac)
+NOC3L,Nuclear (HA Frac)
+NOC4L,Nuclear (HA Frac)
+NOL11,Nuclear (HA Frac)
+NOL8,Nuclear (HA Frac)
+NOL9,Nuclear (HA Frac)
+NOLC1,Nuclear (HA Frac)
+NOP2,Nuclear (HA Frac)
+NOP53,Nuclear (HA Frac)
+NOP56,Nuclear (HA Frac)
+NOP58,Nuclear (HA Frac)
+NOP9,Nuclear (HA Frac)
+NOVA1,Nuclear (HA Frac)
+NPAT,Nuclear (HA Frac)
+NSA2,Nuclear (HA Frac)
+NSD1,Nuclear (HA Frac)
+NSD3,Nuclear (HA Frac)
+NUCKS1,Nuclear (HA Frac)
+NUP153,Nuclear (HA Frac)
+NUP35,Nuclear (HA Frac)
+NUP50,Nuclear (HA Frac)
+NVL,Nuclear (HA Frac)
+ONECUT2,Nuclear (HA Frac)
+PARN,Nuclear (HA Frac)
+PCGF1,Nuclear (HA Frac)
+PELP1,Nuclear (HA Frac)
+PES1,Nuclear (HA Frac)
+PHC1,Nuclear (HA Frac)
+PHC2,Nuclear (HA Frac)
+PHF1,Nuclear (HA Frac)
+PHF14,Nuclear (HA Frac)
+PHF2,Nuclear (HA Frac)
+PHF20L1,Nuclear (HA Frac)
+PHF21A,Nuclear (HA Frac)
+PNN,Nuclear (HA Frac)
+POGZ,Nuclear (HA Frac)
+PPAN,Nuclear (HA Frac)
+PRDM2,Nuclear (HA Frac)
+PRR3,Nuclear (HA Frac)
+PSIP1,Nuclear (HA Frac)
+PUM3,Nuclear (HA Frac)
+PWP1,Nuclear (HA Frac)
+PWP2,Nuclear (HA Frac)
+PWWP3A,Nuclear (HA Frac)
+RAD21,Nuclear (HA Frac)
+RAI1,Nuclear (HA Frac)
+RALY,Nuclear (HA Frac)
+RBFOX2,Nuclear (HA Frac)
+RBM14,Nuclear (HA Frac)
+RBM22,Nuclear (HA Frac)
+RBM4,Nuclear (HA Frac)
+RBM45,Nuclear (HA Frac)
+RBM4B,Nuclear (HA Frac)
+RBMX,Nuclear (HA Frac)
+RBMXL1,Nuclear (HA Frac)
+RIF1,Nuclear (HA Frac)
+RNPS1,Nuclear (HA Frac)
+RPL7L1,Nuclear (HA Frac)
+RRP12,Nuclear (HA Frac)
+RRP1B,Nuclear (HA Frac)
+RRP36,Nuclear (HA Frac)
+RSF1,Nuclear (HA Frac)
+RSL24D1,Nuclear (HA Frac)
+SAFB,Nuclear (HA Frac)
+SAFB2,Nuclear (HA Frac)
+SALL1,Nuclear (HA Frac)
+SALL3,Nuclear (HA Frac)
+SAP18,Nuclear (HA Frac)
+SCAF1,Nuclear (HA Frac)
+SCAF11,Nuclear (HA Frac)
+SCMH1,Nuclear (HA Frac)
+SCML2,Nuclear (HA Frac)
+SENP3,Nuclear (HA Frac)
+SENP7,Nuclear (HA Frac)
+SMARCA1,Nuclear (HA Frac)
+SMARCA4,Nuclear (HA Frac)
+SMARCA5,Nuclear (HA Frac)
+SMPD4,Nuclear (HA Frac)
+SNU13,Nuclear (HA Frac)
+SNW1,Nuclear (HA Frac)
+SON,Nuclear (HA Frac)
+SP4,Nuclear (HA Frac)
+SPEN,Nuclear (HA Frac)
+SPOUT1,Nuclear (HA Frac)
+SRCAP,Nuclear (HA Frac)
+SRFBP1,Nuclear (HA Frac)
+SRSF3,Nuclear (HA Frac)
+SSRP1,Nuclear (HA Frac)
+STAG1,Nuclear (HA Frac)
+STRBP,Nuclear (HA Frac)
+SUGP2,Nuclear (HA Frac)
+SURF6,Nuclear (HA Frac)
+SUV39H2,Nuclear (HA Frac)
+SUZ12,Nuclear (HA Frac)
+TAF15,Nuclear (HA Frac)
+TARDBP,Nuclear (HA Frac)
+TBL3,Nuclear (HA Frac)
+TCOF1,Nuclear (HA Frac)
+TEAD1,Nuclear (HA Frac)
+TERF2,Nuclear (HA Frac)
+TET1,Nuclear (HA Frac)
+TEX10,Nuclear (HA Frac)
+TFAP4,Nuclear (HA Frac)
+TIGD2,Nuclear (HA Frac)
+TINF2,Nuclear (HA Frac)
+TMEM201,Nuclear (HA Frac)
+TMEM209,Nuclear (HA Frac)
+TOP2A,Nuclear (HA Frac)
+TOP2B,Nuclear (HA Frac)
+TPX2,Nuclear (HA Frac)
+TRA2A,Nuclear (HA Frac)
+TTF1,Nuclear (HA Frac)
+UBN2,Nuclear (HA Frac)
+URB2,Nuclear (HA Frac)
+USP36,Nuclear (HA Frac)
+USP42,Nuclear (HA Frac)
+UTP11,Nuclear (HA Frac)
+UTP14A,Nuclear (HA Frac)
+UTP15,Nuclear (HA Frac)
+UTP20,Nuclear (HA Frac)
+UTP3,Nuclear (HA Frac)
+UTP4,Nuclear (HA Frac)
+UTP6,Nuclear (HA Frac)
+WDR12,Nuclear (HA Frac)
+WDR3,Nuclear (HA Frac)
+WDR33,Nuclear (HA Frac)
+WDR36,Nuclear (HA Frac)
+WDR75,Nuclear (HA Frac)
+WDR76,Nuclear (HA Frac)
+WDR89,Nuclear (HA Frac)
+WIZ,Nuclear (HA Frac)
+XPC,Nuclear (HA Frac)
+YLPM1,Nuclear (HA Frac)
+ZBTB17,Nuclear (HA Frac)
+ZBTB48,Nuclear (HA Frac)
+ZC3H11A,Nuclear (HA Frac)
+ZC3H18,Nuclear (HA Frac)
+ZFR,Nuclear (HA Frac)
+ZMYM2,Nuclear (HA Frac)
+ZMYM3,Nuclear (HA Frac)
+ZNF106,Nuclear (HA Frac)
+ZNF148,Nuclear (HA Frac)
+ZNF189,Nuclear (HA Frac)
+ZNF280C,Nuclear (HA Frac)
+ZNF281,Nuclear (HA Frac)
+ZNF512B,Nuclear (HA Frac)
+ZNF644,Nuclear (HA Frac)
+ZNF740,Nuclear (HA Frac)
+ZNF800,Nuclear (HA Frac)
+NUP107,Nuclear pore complex
+NUP133,Nuclear pore complex
+NUP155,Nuclear pore complex
+NUP160,Nuclear pore complex
+NUP188,Nuclear pore complex
+NUP205,Nuclear pore complex
+NUP210,Nuclear pore complex
+NUP214,Nuclear pore complex
+NUP37,Nuclear pore complex
+NUP54,Nuclear pore complex
+NUP58,Nuclear pore complex
+NUP62,Nuclear pore complex
+NUP85,Nuclear pore complex
+NUP88,Nuclear pore complex
+NUP93,Nuclear pore complex
+NUP98,Nuclear pore complex
+RANBP2,Nuclear pore complex
+RANGAP1,Nuclear pore complex
+TMPO,Nuclear pore complex
+ABCD1,Peroxisome
+ABCD3,Peroxisome
+ACAA1,Peroxisome
+ACOX1,Peroxisome
+CAT,Peroxisome
+HSD17B4,Peroxisome
+PEX11B,Peroxisome
+SLC25A17,Peroxisome
+TYSND1,Peroxisome
+PEX13,Peroxisome
+ACBD5,Peroxisome
+ACOT8,Peroxisome
+AGPS,Peroxisome
+DECR2,Peroxisome
+FAR1,Peroxisome
+GNPAT,Peroxisome
+HACL1,Peroxisome
+PEX1,Peroxisome
+PEX14,Peroxisome
+PEX3,Peroxisome
+PEX6,Peroxisome
+CLIC4,Plasma membrane
+DDAH1,Plasma membrane
+GNG5,Plasma membrane
+RAB35,Plasma membrane
+SLC16A1,Plasma membrane
+STOM,Plasma membrane
+ITGA3,Plasma membrane
+ABCB1,Plasma membrane
+ABCC4,Plasma membrane
+ABCC5,Plasma membrane
+ADAM17,Plasma membrane
+ADAM9,Plasma membrane
+ADCY6,Plasma membrane
+ADCY9,Plasma membrane
+AGFG1,Plasma membrane
+AIDA,Plasma membrane
+ALDOA,Plasma membrane
+ALDOC,Plasma membrane
+ANO6,Plasma membrane
+ANTXR1,Plasma membrane
+ANXA2,Plasma membrane
+AP2A1,Plasma membrane
+AP2A2,Plasma membrane
+AP2B1,Plasma membrane
+AP2M1,Plasma membrane
+AP2S1,Plasma membrane
+ARF6,Plasma membrane
+ARL13B,Plasma membrane
+ATP13A3,Plasma membrane
+ATP1A1,Plasma membrane
+ATP1B1,Plasma membrane
+ATP1B3,Plasma membrane
+ATP2B1,Plasma membrane
+ATP2B3,Plasma membrane
+ATP2B4,Plasma membrane
+AXL,Plasma membrane
+B2M,Plasma membrane
+BASP1,Plasma membrane
+BCAM,Plasma membrane
+BCL2L12,Plasma membrane
+BICD2,Plasma membrane
+BSG,Plasma membrane
+BTN2A1,Plasma membrane
+C2CD5,Plasma membrane
+CADM1,Plasma membrane
+CASK,Plasma membrane
+CD109,Plasma membrane
+CD276,Plasma membrane
+CD46,Plasma membrane
+CD47,Plasma membrane
+CD59,Plasma membrane
+CD81,Plasma membrane
+CD9,Plasma membrane
+CD97,Plasma membrane
+CD99,Plasma membrane
+CD99L2,Plasma membrane
+CDC42,Plasma membrane
+CDH10,Plasma membrane
+CEMIP2,Plasma membrane
+CFL2,Plasma membrane
+CHMP6,Plasma membrane
+CLDND1,Plasma membrane
+CNNM2,Plasma membrane
+CNNM3,Plasma membrane
+CNP,Plasma membrane
+COTL1,Plasma membrane
+CSNK1G3,Plasma membrane
+CSPG4,Plasma membrane
+CXADR,Plasma membrane
+DAB2,Plasma membrane
+DAG1,Plasma membrane
+DDR1,Plasma membrane
+DLG1,Plasma membrane
+DMD,Plasma membrane
+DSC2,Plasma membrane
+DSG2,Plasma membrane
+DSTN,Plasma membrane
+EBF2,Plasma membrane
+EFR3A,Plasma membrane
+EGFR,Plasma membrane
+EPB41,Plasma membrane
+EPB41L1,Plasma membrane
+EPB41L2,Plasma membrane
+EPHA2,Plasma membrane
+EPHB4,Plasma membrane
+EPS15,Plasma membrane
+EPS15L1,Plasma membrane
+ERBB2,Plasma membrane
+ERBIN,Plasma membrane
+F11R,Plasma membrane
+FAM234A,Plasma membrane
+FAM49B,Plasma membrane
+FARP1,Plasma membrane
+FCHO2,Plasma membrane
+FIBP,Plasma membrane
+FLVCR1,Plasma membrane
+FMNL1,Plasma membrane
+FSCN1,Plasma membrane
+FYN,Plasma membrane
+GAS1,Plasma membrane
+GNA11,Plasma membrane
+GNA13,Plasma membrane
+GNAI1,Plasma membrane
+GNAI2,Plasma membrane
+GNAI3,Plasma membrane
+GNAQ,Plasma membrane
+GNB1,Plasma membrane
+GNB2,Plasma membrane
+GNB4,Plasma membrane
+GNG12,Plasma membrane
+GOLGA7,Plasma membrane
+GPC1,Plasma membrane
+GPRIN1,Plasma membrane
+HSPG2,Plasma membrane
+IGF1R,Plasma membrane
+IGSF3,Plasma membrane
+IGSF8,Plasma membrane
+IL1RAP,Plasma membrane
+IL6ST,Plasma membrane
+INPP5A,Plasma membrane
+INSR,Plasma membrane
+IQGAP1,Plasma membrane
+ITGA1,Plasma membrane
+ITGA2,Plasma membrane
+ITGA5,Plasma membrane
+ITGA6,Plasma membrane
+ITGAV,Plasma membrane
+ITGB5,Plasma membrane
+ITSN1,Plasma membrane
+ITSN2,Plasma membrane
+JAK1,Plasma membrane
+KIRREL1,Plasma membrane
+KRAS,Plasma membrane
+L1CAM,Plasma membrane
+LIN7C,Plasma membrane
+LLGL2,Plasma membrane
+LRP6,Plasma membrane
+LRRC57,Plasma membrane
+LRRC8A,Plasma membrane
+LSR,Plasma membrane
+LYN,Plasma membrane
+MARCKSL1,Plasma membrane
+MCAM,Plasma membrane
+MELTF,Plasma membrane
+MET,Plasma membrane
+MMP15,Plasma membrane
+MPP6,Plasma membrane
+MPP7,Plasma membrane
+MPZL1,Plasma membrane
+MSN,Plasma membrane
+MYO1B,Plasma membrane
+MYO1C,Plasma membrane
+MYO1E,Plasma membrane
+NECTIN2,Plasma membrane
+NF2,Plasma membrane
+NOTCH2,Plasma membrane
+NPTN,Plasma membrane
+NRAS,Plasma membrane
+ORAI1,Plasma membrane
+PALM,Plasma membrane
+PIEZO1,Plasma membrane
+PIP5K1A,Plasma membrane
+PKP2,Plasma membrane
+PLCD3,Plasma membrane
+PLD2,Plasma membrane
+PLSCR3,Plasma membrane
+PLXNA1,Plasma membrane
+PLXNA2,Plasma membrane
+PLXNB2,Plasma membrane
+PLXND1,Plasma membrane
+PODXL2,Plasma membrane
+PPP3CA,Plasma membrane
+PRNP,Plasma membrane
+PSEN1,Plasma membrane
+PTGFRN,Plasma membrane
+PTP4A1,Plasma membrane
+PTP4A2,Plasma membrane
+PTPRF,Plasma membrane
+PTPRK,Plasma membrane
+PTPRS,Plasma membrane
+RAB13,Plasma membrane
+RAB22A,Plasma membrane
+RAB23,Plasma membrane
+RAB6A,Plasma membrane
+RAC1,Plasma membrane
+RALA,Plasma membrane
+RALB,Plasma membrane
+RAP1A,Plasma membrane
+RAP1B,Plasma membrane
+RAP2B,Plasma membrane
+RAP2C,Plasma membrane
+RECK,Plasma membrane
+RHBDF2,Plasma membrane
+RHOA,Plasma membrane
+RHOB,Plasma membrane
+RHOG,Plasma membrane
+ROBO1,Plasma membrane
+ROR1,Plasma membrane
+ROR2,Plasma membrane
+RP2,Plasma membrane
+RRAS2,Plasma membrane
+RTN4RL2,Plasma membrane
+S100A10,Plasma membrane
+SDC1,Plasma membrane
+SDC2,Plasma membrane
+SH3BP4,Plasma membrane
+SLC12A2,Plasma membrane
+SLC12A7,Plasma membrane
+SLC1A4,Plasma membrane
+SLC1A5,Plasma membrane
+SLC20A1,Plasma membrane
+SLC29A1,Plasma membrane
+SLC2A1,Plasma membrane
+SLC2A3,Plasma membrane
+SLC30A1,Plasma membrane
+SLC31A1,Plasma membrane
+SLC39A10,Plasma membrane
+SLC39A14,Plasma membrane
+SLC39A6,Plasma membrane
+SLC3A2,Plasma membrane
+SLC43A2,Plasma membrane
+SLC43A3,Plasma membrane
+SLC44A2,Plasma membrane
+SLC4A7,Plasma membrane
+SLC5A6,Plasma membrane
+SLC6A9,Plasma membrane
+SLC7A11,Plasma membrane
+SLC7A5,Plasma membrane
+SLC9A3R1,Plasma membrane
+SLC9A3R2,Plasma membrane
+SNAP23,Plasma membrane
+SNAP25,Plasma membrane
+SNTB2,Plasma membrane
+SNX33,Plasma membrane
+SNX9,Plasma membrane
+SPAG1,Plasma membrane
+SQSTM1,Plasma membrane
+STON2,Plasma membrane
+STX2,Plasma membrane
+STX3,Plasma membrane
+STX4,Plasma membrane
+STXBP2,Plasma membrane
+STXBP3,Plasma membrane
+TBC1D10B,Plasma membrane
+TENM3,Plasma membrane
+TGFBR3,Plasma membrane
+TMEM132A,Plasma membrane
+TNFRSF10A,Plasma membrane
+TSPAN4,Plasma membrane
+UBE4A,Plasma membrane
+VANGL1,Plasma membrane
+VASN,Plasma membrane
+XPR1,Plasma membrane
+ZDHHC5,Plasma membrane
+PSMA6,Proteasome
+PSMA1,Proteasome
+PSMA2,Proteasome
+PSMA3,Proteasome
+PSMA4,Proteasome
+PSMA5,Proteasome
+PSMA7,Proteasome
+PSMB1,Proteasome
+PSMB2,Proteasome
+PSMB3,Proteasome
+PSMB4,Proteasome
+PSMB5,Proteasome
+PSMB6,Proteasome
+PSMB7,Proteasome
+PSMC1,Proteasome
+PSMC2,Proteasome
+PSMC3,Proteasome
+PSMC4,Proteasome
+PSMC5,Proteasome
+PSMC6,Proteasome
+PSMD1,Proteasome
+PSMD11,Proteasome
+PSMD12,Proteasome
+PSMD13,Proteasome
+PSMD14,Proteasome
+PSMD2,Proteasome
+PSMD3,Proteasome
+PSMD4,Proteasome
+PSMD6,Proteasome
+PSMD7,Proteasome
+PSMD8,Proteasome
+RPL10A,Ribosome
+RPL34,Ribosome
+RPL35A,Ribosome
+RPS14,Ribosome
+RPS15A,Ribosome
+RPS18,Ribosome
+RPL10,Ribosome
+RPL11,Ribosome
+RPL12,Ribosome
+RPL13,Ribosome
+RPL13A,Ribosome
+RPL14,Ribosome
+RPL15,Ribosome
+RPL17,Ribosome
+RPL18,Ribosome
+RPL18A,Ribosome
+RPL19,Ribosome
+RPL21,Ribosome
+RPL22,Ribosome
+RPL22L1,Ribosome
+RPL23,Ribosome
+RPL23A,Ribosome
+RPL24,Ribosome
+RPL26,Ribosome
+RPL27,Ribosome
+RPL27A,Ribosome
+RPL28,Ribosome
+RPL29,Ribosome
+RPL3,Ribosome
+RPL30,Ribosome
+RPL31,Ribosome
+RPL32,Ribosome
+RPL35,Ribosome
+RPL36,Ribosome
+RPL36A,Ribosome
+RPL37,Ribosome
+RPL37A,Ribosome
+RPL38,Ribosome
+RPL4,Ribosome
+RPL5,Ribosome
+RPL6,Ribosome
+RPL7,Ribosome
+RPL7A,Ribosome
+RPL8,Ribosome
+RPL9,Ribosome
+RPLP0,Ribosome
+RPLP1,Ribosome
+RPLP2,Ribosome
+RPS10,Ribosome
+RPS11,Ribosome
+RPS12,Ribosome
+RPS13,Ribosome
+RPS15,Ribosome
+RPS16,Ribosome
+RPS17,Ribosome
+RPS19,Ribosome
+RPS2,Ribosome
+RPS20,Ribosome
+RPS21,Ribosome
+RPS23,Ribosome
+RPS24,Ribosome
+RPS25,Ribosome
+RPS26,Ribosome
+RPS27L,Ribosome
+RPS28,Ribosome
+RPS3,Ribosome
+RPS3A,Ribosome
+RPS4X,Ribosome
+RPS5,Ribosome
+RPS6,Ribosome
+RPS7,Ribosome
+RPS8,Ribosome
+RPS9,Ribosome
+RPSA,Ribosome
+ABCB8,Mitochondria
+ACSL1,Mitochondria
+ARMC10,Mitochondria
+ATAD3B,Mitochondria
+BAK1,Mitochondria
+BCL2L13,Mitochondria
+CCDC127,Mitochondria
+CHCHD2,Mitochondria
+CHCHD6,Mitochondria
+CKMT1A,Mitochondria
+CYB5B,Mitochondria
+CYB5R3,Mitochondria
+EXOG,Mitochondria
+FIS1,Mitochondria
+FUNDC2,Mitochondria
+GDAP1,Mitochondria
+GPAM,Mitochondria
+HK1,Mitochondria
+HSDL1,Mitochondria
+5-Mar,Mitochondria
+MIEF1,Mitochondria
+MTFR1,Mitochondria
+MTFR1L,Mitochondria
+MTX2,Mitochondria
+MUL1,Mitochondria
+NDUFB1,Mitochondria
+NDUFS5,Mitochondria
+OPA1,Mitochondria
+PTGES2,Mitochondria
+PTRH2,Mitochondria
+RAB24,Mitochondria
+RMDN1,Mitochondria
+RMDN3,Mitochondria
+SCCPDH,Mitochondria
+SLC25A46,Mitochondria
+SNAP29,Mitochondria
+STARD7,Mitochondria
+SYNJ2BP,Mitochondria
+TDRKH,Mitochondria
+TIMM17B,Mitochondria
+TOMM20,Mitochondria
+AADAT,Mitochondria
+AASS,Mitochondria
+ABAT,Mitochondria
+ABCA13,Mitochondria
+ABCB10,Mitochondria
+ABCD2,Mitochondria
+ABCF2,Mitochondria
+ABHD11,Mitochondria
+ACACA,Mitochondria
+ACACB,Mitochondria
+ACAD10,Mitochondria
+ACAD11,Mitochondria
+ACAD8,Mitochondria
+ACADS,Mitochondria
+ACLY,Mitochondria
+ACO1,Mitochondria
+ACOT2,Mitochondria
+ACOT7,Mitochondria
+ACOX3,Mitochondria
+ACP6,Mitochondria
+ACSF2,Mitochondria
+ACSS1,Mitochondria
+ACSS3,Mitochondria
+ACYP2,Mitochondria
+ADCK1,Mitochondria
+ADCK5,Mitochondria
+AFG1L,Mitochondria
+AGMAT,Mitochondria
+AGPAT5,Mitochondria
+AHCYL1,Mitochondria
+AK3,Mitochondria
+AKAP10,Mitochondria
+AKR7A2,Mitochondria
+ALAS1,Mitochondria
+ALDH18A1,Mitochondria
+ALDH1L2,Mitochondria
+ALDH2,Mitochondria
+ALDH6A1,Mitochondria
+ALKBH1,Mitochondria
+ALKBH7,Mitochondria
+AMACR,Mitochondria
+AMT,Mitochondria
+ANGEL2,Mitochondria
+APEX2,Mitochondria
+APOOL,Mitochondria
+APOPT1,Mitochondria
+ARF5,Mitochondria
+ARG2,Mitochondria
+ARL2,Mitochondria
+ATIC,Mitochondria
+ATP5F1D,Mitochondria
+ATP5MF,Mitochondria
+ATPAF2,Mitochondria
+ATXN2,Mitochondria
+AUH,Mitochondria
+AURKAIP1,Mitochondria
+BAD,Mitochondria
+BCL2,Mitochondria
+BCL2L1,Mitochondria
+BCS1L,Mitochondria
+BDH1,Mitochondria
+BID,Mitochondria
+BNIP3L,Mitochondria
+BOLA1,Mitochondria
+BPHL,Mitochondria
+C15orf40,Mitochondria
+C2orf69,Mitochondria
+C3orf33,Mitochondria
+C6orf136,Mitochondria
+C6orf203,Mitochondria
+C8orf82,Mitochondria
+CASP8,Mitochondria
+CBR3,Mitochondria
+CCDC51,Mitochondria
+CCDC90B,Mitochondria
+CCSMST1,Mitochondria
+CCT7,Mitochondria
+CDC25C,Mitochondria
+CEP89,Mitochondria
+CHCHD1,Mitochondria
+CHCHD5,Mitochondria
+CHPT1,Mitochondria
+CKMT2,Mitochondria
+CLYBL,Mitochondria
+CMC2,Mitochondria
+COA1,Mitochondria
+COASY,Mitochondria
+COQ10A,Mitochondria
+COQ3,Mitochondria
+COQ5,Mitochondria
+COQ6,Mitochondria
+COQ7,Mitochondria
+COQ8A,Mitochondria
+COQ8B,Mitochondria
+COQ9,Mitochondria
+COX10,Mitochondria
+COX11,Mitochondria
+COX14,Mitochondria
+COX16,Mitochondria
+COX18,Mitochondria
+COX19,Mitochondria
+COX20,Mitochondria
+COX5B,Mitochondria
+COX6A1,Mitochondria
+COX8A,Mitochondria
+CPT1C,Mitochondria
+CPT2,Mitochondria
+CROT,Mitochondria
+CRY1,Mitochondria
+CYB5A,Mitochondria
+CYB5R2,Mitochondria
+D2HGDH,Mitochondria
+DBI,Mitochondria
+DCAKD,Mitochondria
+DGLUCY,Mitochondria
+DGUOK,Mitochondria
+DHRS1,Mitochondria
+DHRS4,Mitochondria
+DHTKD1,Mitochondria
+DMAC2,Mitochondria
+DMAC2L,Mitochondria
+DMGDH,Mitochondria
+DNA2,Mitochondria
+DNAJC30,Mitochondria
+DNLZ,Mitochondria
+DNM1L,Mitochondria
+DUS2,Mitochondria
+ECHDC1,Mitochondria
+ECHDC3,Mitochondria
+ECI2,Mitochondria
+ECSIT,Mitochondria
+EEFSEC,Mitochondria
+EFHD1,Mitochondria
+EHHADH,Mitochondria
+ENDOG,Mitochondria
+EPHX2,Mitochondria
+ETFDH,Mitochondria
+ETFRF1,Mitochondria
+FAM136A,Mitochondria
+FAM210A,Mitochondria
+FAM210B,Mitochondria
+FASN,Mitochondria
+FASTK,Mitochondria
+FASTKD1,Mitochondria
+FBXL4,Mitochondria
+FDPS,Mitochondria
+FHIT,Mitochondria
+FKBP8,Mitochondria
+FLAD1,Mitochondria
+FMC1,Mitochondria
+FOXRED1,Mitochondria
+FPGS,Mitochondria
+FUNDC1,Mitochondria
+FXN,Mitochondria
+GAPDH,Mitochondria
+GATB,Mitochondria
+GATC,Mitochondria
+GATM,Mitochondria
+GCAT,Mitochondria
+GFM2,Mitochondria
+GLDC,Mitochondria
+GLOD4,Mitochondria
+GLRX2,Mitochondria
+GLRX5,Mitochondria
+GLYCTK,Mitochondria
+GOLPH3,Mitochondria
+GPI,Mitochondria
+GPX1,Mitochondria
+GPX4,Mitochondria
+GSTK1,Mitochondria
+GSTO1,Mitochondria
+GSTZ1,Mitochondria
+GTPBP3,Mitochondria
+GUF1,Mitochondria
+GUK1,Mitochondria
+HDHD3,Mitochondria
+HDHD5,Mitochondria
+HEBP1,Mitochondria
+HIBADH,Mitochondria
+HIBCH,Mitochondria
+HINT1,Mitochondria
+HINT3,Mitochondria
+HMBS,Mitochondria
+HMGCL,Mitochondria
+HSDL2,Mitochondria
+HTATIP2,Mitochondria
+IBA57,Mitochondria
+IDE,Mitochondria
+IDH1,Mitochondria
+IDI1,Mitochondria
+IMMP2L,Mitochondria
+ISCA1,Mitochondria
+ISCA2,Mitochondria
+ISOC2,Mitochondria
+KARS,Mitochondria
+KIF1B,Mitochondria
+L2HGDH,Mitochondria
+LACTB2,Mitochondria
+LDHB,Mitochondria
+LIAS,Mitochondria
+LIPT1,Mitochondria
+LONP2,Mitochondria
+LYPLAL1,Mitochondria
+LYRM1,Mitochondria
+LYRM2,Mitochondria
+LYRM4,Mitochondria
+LYRM9,Mitochondria
+MAIP1,Mitochondria
+MAOA,Mitochondria
+MAOB,Mitochondria
+MCEE,Mitochondria
+MCRIP2,Mitochondria
+MCU,Mitochondria
+MCUB,Mitochondria
+MDH1,Mitochondria
+ME1,Mitochondria
+ME3,Mitochondria
+MECR,Mitochondria
+METAP1D,Mitochondria
+METTL15,Mitochondria
+METTL17,Mitochondria
+METTL5,Mitochondria
+METTL8,Mitochondria
+MGST1,Mitochondria
+MIC13,Mitochondria
+MLH1,Mitochondria
+MLYCD,Mitochondria
+MMADHC,Mitochondria
+MOCS1,Mitochondria
+MP68,Mitochondria
+MPC2,Mitochondria
+MPST,Mitochondria
+MPV17,Mitochondria
+MPV17L2,Mitochondria
+MRM1,Mitochondria
+MRM2,Mitochondria
+MRPL33,Mitochondria
+MRPL34,Mitochondria
+MRPL35,Mitochondria
+MRPL40,Mitochondria
+MRPL42,Mitochondria
+MRPL51,Mitochondria
+MRPL52,Mitochondria
+MRPL54,Mitochondria
+MRPL57,Mitochondria
+MRPS18C,Mitochondria
+MRPS33,Mitochondria
+MRS2,Mitochondria
+MSRA,Mitochondria
+MSRB2,Mitochondria
+MT-ATP6,Mitochondria
+MT-ATP8,Mitochondria
+MT-CO1,Mitochondria
+MTERF1,Mitochondria
+MTERF2,Mitochondria
+MTERF4,Mitochondria
+MTFMT,Mitochondria
+MTFP1,Mitochondria
+MTHFD1,Mitochondria
+MTHFS,Mitochondria
+MTIF2,Mitochondria
+MTIF3,Mitochondria
+MT-ND1,Mitochondria
+MT-ND2,Mitochondria
+MT-ND5,Mitochondria
+MT-ND6,Mitochondria
+MTRF1,Mitochondria
+MTRF1L,Mitochondria
+MUTYH,Mitochondria
+NAXD,Mitochondria
+NCOA4,Mitochondria
+NDUFA13,Mitochondria
+NDUFA3,Mitochondria
+NDUFAB1,Mitochondria
+NDUFAF1,Mitochondria
+NDUFAF4,Mitochondria
+NDUFAF5,Mitochondria
+NDUFAF6,Mitochondria
+NDUFB4,Mitochondria
+NDUFB8,Mitochondria
+NDUFC2,Mitochondria
+NDUFS2,Mitochondria
+NDUFS3,Mitochondria
+NDUFV1,Mitochondria
+NFU1,Mitochondria
+NIPSNAP3A,Mitochondria
+NIPSNAP3B,Mitochondria
+NIT1,Mitochondria
+NIT2,Mitochondria
+NLRX1,Mitochondria
+NME4,Mitochondria
+NME6,Mitochondria
+NNT,Mitochondria
+NOA1,Mitochondria
+NRDC,Mitochondria
+NSUN3,Mitochondria
+NT5C,Mitochondria
+NT5DC3,Mitochondria
+NT5M,Mitochondria
+NTHL1,Mitochondria
+NUBPL,Mitochondria
+NUCB2,Mitochondria
+NUDT19,Mitochondria
+NUDT2,Mitochondria
+NUDT5,Mitochondria
+NUDT6,Mitochondria
+NUDT8,Mitochondria
+NUDT9,Mitochondria
+OBSCN,Mitochondria
+OCIAD2,Mitochondria
+OPA3,Mitochondria
+OSBPL1A,Mitochondria
+OSGEPL1,Mitochondria
+OTC,Mitochondria
+OXNAD1,Mitochondria
+OXR1,Mitochondria
+OXSM,Mitochondria
+PABPC5,Mitochondria
+PACSIN2,Mitochondria
+PAICS,Mitochondria
+PAK5,Mitochondria
+PAM16,Mitochondria
+PANK2,Mitochondria
+PARG,Mitochondria
+PARK7,Mitochondria
+PARL,Mitochondria
+PARS2,Mitochondria
+PCBD2,Mitochondria
+PCCA,Mitochondria
+PCCB,Mitochondria
+PDK1,Mitochondria
+PDK2,Mitochondria
+PDK3,Mitochondria
+PDP2,Mitochondria
+PDSS1,Mitochondria
+PDSS2,Mitochondria
+PET100,Mitochondria
+PET117,Mitochondria
+PGS1,Mitochondria
+PHYH,Mitochondria
+PI4KA,Mitochondria
+PICK1,Mitochondria
+PINK1,Mitochondria
+PLGRKT,Mitochondria
+PLPBP,Mitochondria
+PNPLA8,Mitochondria
+PNPO,Mitochondria
+POLG2,Mitochondria
+PPOX,Mitochondria
+PPTC7,Mitochondria
+PPWD1,Mitochondria
+PRDX2,Mitochondria
+PRDX6,Mitochondria
+PRELID1,Mitochondria
+PRELID3B,Mitochondria
+PRODH,Mitochondria
+PRXL2A,Mitochondria
+PTCD2,Mitochondria
+PTPMT1,Mitochondria
+PTPN4,Mitochondria
+PTRH1,Mitochondria
+PTS,Mitochondria
+PUSL1,Mitochondria
+PXMP2,Mitochondria
+PXMP4,Mitochondria
+PYURF,Mitochondria
+QDPR,Mitochondria
+QRSL1,Mitochondria
+QTRT1,Mitochondria
+RAB32,Mitochondria
+RAB5IF,Mitochondria
+RARS,Mitochondria
+RBFA,Mitochondria
+RDH14,Mitochondria
+RECQL4,Mitochondria
+REXO2,Mitochondria
+RFK,Mitochondria
+RMND1,Mitochondria
+RNASEH1,Mitochondria
+RPIA,Mitochondria
+RPUSD3,Mitochondria
+RPUSD4,Mitochondria
+RTN4IP1,Mitochondria
+SARDH,Mitochondria
+SCP2,Mitochondria
+SDHAF3,Mitochondria
+SDHC,Mitochondria
+SDHD,Mitochondria
+SDR39U1,Mitochondria
+SDSL,Mitochondria
+SECISBP2,Mitochondria
+SELENOO,Mitochondria
+SERAC1,Mitochondria
+SETD9,Mitochondria
+SFXN2,Mitochondria
+SFXN3,Mitochondria
+SFXN4,Mitochondria
+SFXN5,Mitochondria
+SHMT1,Mitochondria
+SIRT3,Mitochondria
+SIRT5,Mitochondria
+SLC16A7,Mitochondria
+SLC25A12,Mitochondria
+SLC25A14,Mitochondria
+SLC25A15,Mitochondria
+SLC25A16,Mitochondria
+SLC25A19,Mitochondria
+SLC25A20,Mitochondria
+SLC25A21,Mitochondria
+SLC25A25,Mitochondria
+SLC25A26,Mitochondria
+SLC25A29,Mitochondria
+SLC25A33,Mitochondria
+SLC25A36,Mitochondria
+SLC25A38,Mitochondria
+SLC25A40,Mitochondria
+SLC25A51,Mitochondria
+SLC30A6,Mitochondria
+SLC30A9,Mitochondria
+SLC37A4,Mitochondria
+SOD1,Mitochondria
+SPATA20,Mitochondria
+SPG7,Mitochondria
+STOML1,Mitochondria
+STX17,Mitochondria
+SUOX,Mitochondria
+TACO1,Mitochondria
+TARS,Mitochondria
+TCHP,Mitochondria
+THG1L,Mitochondria
+TIMM13,Mitochondria
+TIMM17A,Mitochondria
+TIMM22,Mitochondria
+TIMM29,Mitochondria
+TIMM8A,Mitochondria
+TIMM8B,Mitochondria
+TK2,Mitochondria
+TKT,Mitochondria
+TMEM126B,Mitochondria
+TMEM143,Mitochondria
+TMEM14C,Mitochondria
+TMEM177,Mitochondria
+TMEM65,Mitochondria
+TMLHE,Mitochondria
+TOMM34,Mitochondria
+TOMM40L,Mitochondria
+TOMM7,Mitochondria
+TPI1,Mitochondria
+TRIT1,Mitochondria
+TRMT11,Mitochondria
+TRMT2B,Mitochondria
+TRMU,Mitochondria
+TTC19,Mitochondria
+TUBB3,Mitochondria
+TWNK,Mitochondria
+TXNRD1,Mitochondria
+UNG,Mitochondria
+UQCC1,Mitochondria
+UQCR11,Mitochondria
+UQCRFS1,Mitochondria
+VARS2,Mitochondria
+VWA8,Mitochondria
+WDR81,Mitochondria
+YBEY,Mitochondria
+ZADH2,Mitochondria
+ARMCX3,Mitochondria
+C2CD3,Mitochondria
+CARD19,Mitochondria
+CUL2,Mitochondria
+EXD2,Mitochondria
+FAM84B,Mitochondria
+FBXO17,Mitochondria
+FEM1B,Mitochondria
+HSPB1,Mitochondria
+MCL1,Mitochondria
+MIEF2,Mitochondria
+MTX3,Mitochondria
+NAPG,Mitochondria
+PRKCD,Mitochondria
+RAB3A,Mitochondria
+RAB3D,Mitochondria
+RAB5C,Mitochondria
+RANBP6,Mitochondria
+RMDN2,Mitochondria
+SAR1A,Mitochondria
+SAR1B,Mitochondria
+SARM1,Mitochondria
+TBC1D15,Mitochondria
+TMEM263,Mitochondria
+USP30,Mitochondria
+VPS13D,Mitochondria
